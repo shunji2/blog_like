@@ -1,0 +1,52 @@
+header{
+	background-color: yellow;
+	height: 50px;
+	width: 100%;
+	margin-bottom: 20px;
+}
+h1{
+	display: inline;
+    margin: 0 auto;
+	margin-right: 20px;
+	/*float: left;*/
+
+}
+
+/*section{
+	background-color: lightblue;
+	float: left;
+	width: 70%;
+	height: 150px;
+}*/
+
+
+.main_column{
+	background-color: lightblue;
+	width: 50%;
+	height: 200px;
+	float: left;
+	margin: 0 20px;
+
+}
+
+.two_column{
+	width: 40%;
+	height: 200px;
+	background-color: #f00;
+	float: left;
+}
+
+.clear{
+	clear: both;
+}
+
+footer{
+	background-color: #fa0;
+	width: 100%;
+	height: 150px;
+}
+
+a{
+	display: inline;
+}
+
